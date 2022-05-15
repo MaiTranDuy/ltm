@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is 04C6-7031
+
+ Directory of C:\Users\duy01\source\repos\Bai2_9-5-2022
+
+05/15/2022  09:24 PM    <DIR>          .
+05/15/2022  09:11 PM    <DIR>          ..
+05/15/2022  09:17 PM                33 account.txt
+05/15/2022  09:22 PM             1,564 Bai2_9-5-2022.cpp
+05/15/2022  09:11 PM             1,446 Bai2_9-5-2022.sln
+05/15/2022  09:11 PM             7,202 Bai2_9-5-2022.vcxproj
+05/15/2022  09:11 PM               986 Bai2_9-5-2022.vcxproj.filters
+05/15/2022  09:11 PM               168 Bai2_9-5-2022.vcxproj.user
+05/15/2022  09:30 PM                 0 output.txt
+05/15/2022  09:15 PM    <DIR>          x64
+               7 File(s)         11,399 bytes
+               3 Dir(s)  139,683,328,000 bytes free
